@@ -18,7 +18,32 @@ Here are some ideas to get you started:
 
 💻 Developer | 🧠 Problem Solver | ☕ Coffee? Yes Please.
 
-**I love working with**
+**I believe in working smarter, saving time, and give commands. You got what I'm saying. 🤖**
+
+# My sidekicks, My Partners in crime: 
+
+<div>
+  <!-- ChatGPT (using OpenAI logo as proxy) -->
+  <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+
+  <!-- DeepSeek (no official badge, use generic search icon) -->
+  <img src="https://img.shields.io/badge/DeepSeek-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DeepSeek"/>
+
+  <!-- Cursor (code editor, use vscode logo as closest) -->
+  <img src="https://img.shields.io/badge/Cursor-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor"/>
+
+  <!-- Lovable (no official badge, generic heart icon) -->
+  <img src="https://img.shields.io/badge/Lovable-%23FF4081.svg?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable"/>
+
+  <!-- Firebase Studio (Firebase logo for Firebase) -->
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Studio"/>
+
+  <!-- GitHub Copilot -->
+  <img src="https://img.shields.io/badge/GitHub_Copilot-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+</div>
+
+
+## I love working with
 
 <div>
   <!-- Frontend -->
@@ -28,30 +53,23 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS"/>
 
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
   <img src="https://img.shields.io/badge/entity%20framework%20core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework Core"/>
   <img src="https://img.shields.io/badge/dapper-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Dapper"/>
 
-  <!-- Database -->
   <img src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
   <img src="https://img.shields.io/badge/Database-%23007396.svg?style=for-the-badge&logo=database&logoColor=white" alt="Database"/>
 
-  <!-- Tools & DevOps -->
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-### 🌱 I’m learning
-
+## 🌱 Learning Goals
 <div display="flex">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/cloud-%233498DB.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 
@@ -59,14 +77,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </div>
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
 I'm definitely not a cat person.
