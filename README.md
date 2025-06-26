@@ -1,26 +1,10 @@
 ## Hi there 👋
 
-<!--
-**jenishpokhrell/jenishpokhrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
 💻 Developer | 🧠 Problem Solver | ☕ Coffee? Yes Please.
 
-**I believe in working smarter, saving time, and give commands. You got what I'm saying. 🤖**
+**I love working smarter, saving time, and give commands. You got what I'm saying. 🤖**
 
-# My sidekicks, My Partners in crime: 
+### My sidekicks and partners in crime:
 
 <div>
   <!-- ChatGPT (using OpenAI logo as proxy) -->
@@ -74,11 +58,11 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/jenish-pokhrel-949025230/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ## ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm a dog person. My future buddy is waiting for me. 🐕
