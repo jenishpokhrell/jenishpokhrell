@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-💻 Developer | 🧠 Problem Solver | ☕ Coffee? Yes Please.
+# 💻 Developer | 🧠 Problem Solver | ☕ Coffee? Yes Please.
 
 **I love working smarter, saving time, and give commands. You got what I'm saying. 🤖**
 
