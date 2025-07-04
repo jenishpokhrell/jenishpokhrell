@@ -65,6 +65,9 @@
   <a href="https://www.linkedin.com/in/jenish-pokhrel-949025230/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:jenishpokhrel56@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 </div>
 
 ## ⚡ Fun fact
